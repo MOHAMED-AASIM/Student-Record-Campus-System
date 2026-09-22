@@ -200,24 +200,5 @@ mvn javafx:run
 
 ---
 
-## 8. Submission Checklist
 
-Before submission, verify:
-
-* Complete project is implemented.
-* All required data structures are included.
-* Graph functionality is implemented.
-* Student management functions work correctly.
-* Validation and error handling work correctly.
-* GitHub repository is complete.
-* Demo video is complete.
-* Google Drive files are uploaded if required.
-* Google Drive link is included in the required `.txt` file.
-* Required staff members have Editor access.
-* Google Drive permissions have been checked.
-* Submission is completed through the designated LMS before the deadline.
-
-**Submission deadline: 29 September**
-
-An email sent after the deadline does not replace the required LMS submission.
 
